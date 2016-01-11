@@ -1,0 +1,1 @@
+This ability to multitask simultaneously or "asynchronously" is what makes Node.js so fast and scalable. It also makes it ideal for handling inbound and outbound tasks. Let's take a deeper look at how Node.js readable and writeable streams make a difference for i/o event handling.  
